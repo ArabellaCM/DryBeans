@@ -5,7 +5,7 @@ Classification of seven types of dry bean as part of #MakeoverMonday
 
 Tableau Dashboard is available [here:](https://public.tableau.com/profile/arabella.cooper.maddocks#!/vizhome/WhichBeanisWhich)
 
-!(https://github.com/ArabellaCM/DryBeans/blob/main/TableauBeans.JPG)
+![Tableau Dashboard](https://github.com/ArabellaCM/DryBeans/blob/main/TableauBeans.JPG)
 
 
 Data Source:
